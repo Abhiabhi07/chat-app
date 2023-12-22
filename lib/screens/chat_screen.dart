@@ -50,7 +50,7 @@ class ChatScreen extends ConsumerWidget {
               ),
               title: Text(
                 name,
-                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
               ),
               subtitle: Text(
                 bio,
